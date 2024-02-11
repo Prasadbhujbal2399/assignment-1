@@ -1,0 +1,33 @@
+body {
+  
+  background-image: url("math-background.jpeg");
+}
+
+h1 {
+	background-color:red;border: 5px solid black;
+  margin-top: 100px;
+  margin-bottom: 20px;
+  margin-right: 600px;
+  margin-left: 500px;
+}
+p{border-style:groove;
+	background-color:green;
+}
+h2{
+	border:7px dashed black;
+	background-color:purple;
+	margin-right: 500px;
+  margin-left: 450px;
+}
+h3{
+	border-style:dotted;
+	background-color:yellow;
+	
+}
+a{
+	color:hotpink;font-size:50px;
+}
+img{
+	width: 600px;
+	height : 200px;
+}
